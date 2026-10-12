@@ -1,0 +1,6 @@
+{
+  "name": "Gestion des étudiants",
+  "description": "Application Android complète pour la gestion des étudiants avec base de données SQLite, RecyclerView et opérations CRUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
